@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Evander\Formações\Dio\Decola Tetch\Exmplo_Fundamentos\bin\Debug\net8.0\Exmplo_Fundamentos.exe
+C:\Users\Admin\Documents\Evander\Formações\Dio\Decola Tetch\Exmplo_Fundamentos\bin\Debug\net8.0\Exmplo_Fundamentos.deps.json
+C:\Users\Admin\Documents\Evander\Formações\Dio\Decola Tetch\Exmplo_Fundamentos\bin\Debug\net8.0\Exmplo_Fundamentos.runtimeconfig.json
+C:\Users\Admin\Documents\Evander\Formações\Dio\Decola Tetch\Exmplo_Fundamentos\bin\Debug\net8.0\Exmplo_Fundamentos.dll
+C:\Users\Admin\Documents\Evander\Formações\Dio\Decola Tetch\Exmplo_Fundamentos\bin\Debug\net8.0\Exmplo_Fundamentos.pdb
+C:\Users\Admin\Documents\Evander\Formações\Dio\Decola Tetch\Exmplo_Fundamentos\obj\Debug\net8.0\Exmplo_Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Evander\Formações\Dio\Decola Tetch\Exmplo_Fundamentos\obj\Debug\net8.0\Exmplo_Fundamentos.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Evander\Formações\Dio\Decola Tetch\Exmplo_Fundamentos\obj\Debug\net8.0\Exmplo_Fundamentos.AssemblyInfo.cs
+C:\Users\Admin\Documents\Evander\Formações\Dio\Decola Tetch\Exmplo_Fundamentos\obj\Debug\net8.0\Exmplo_Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Evander\Formações\Dio\Decola Tetch\Exmplo_Fundamentos\obj\Debug\net8.0\Exmplo_Fundamentos.dll
+C:\Users\Admin\Documents\Evander\Formações\Dio\Decola Tetch\Exmplo_Fundamentos\obj\Debug\net8.0\refint\Exmplo_Fundamentos.dll
+C:\Users\Admin\Documents\Evander\Formações\Dio\Decola Tetch\Exmplo_Fundamentos\obj\Debug\net8.0\Exmplo_Fundamentos.pdb
+C:\Users\Admin\Documents\Evander\Formações\Dio\Decola Tetch\Exmplo_Fundamentos\obj\Debug\net8.0\Exmplo_Fundamentos.genruntimeconfig.cache
+C:\Users\Admin\Documents\Evander\Formações\Dio\Decola Tetch\Exmplo_Fundamentos\obj\Debug\net8.0\ref\Exmplo_Fundamentos.dll
